@@ -1,6 +1,6 @@
 # Streaming API — Projeto Bimestral POO
 
-## Componentes
+## Integrantes
 - Brayan Alves dos Santos
 - Saulo Gabriel dos Sntos
 
